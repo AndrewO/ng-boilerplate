@@ -26,7 +26,7 @@ as dependencies of this one.  For example, a `note` section could have the
 submodules `note.create`, `note.delete`, `note.search`, etc.
 
 Regardless, so long as dependencies are managed correctly, the build process
-will automatically take take of the rest.
+will automatically take care of the rest.
 
 The dependencies block is also where component dependencies should be
 specified, as shown below.
